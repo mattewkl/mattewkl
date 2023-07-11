@@ -7,8 +7,6 @@
 
 - 👯 Всегда готов **Пообщаться за жизу, работу и кофе**
 
-- 🤝 Мне нужна помощь с **странными багами плагинов WP**
-
 - 👨‍💻 All of my projects are available [RIGHT HERE](RIGHT HERE)
 
 - 📫 How to reach me **@bgmdmt in Telegram**
